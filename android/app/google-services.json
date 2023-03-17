@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444582222729",
+    "project_id": "ufit-d7f48",
+    "storage_bucket": "ufit-d7f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444582222729:android:f58eb28beaa9cc8f0d5f58",
+        "android_client_info": {
+          "package_name": "com.example.ufit1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444582222729-o9gvb6f7d5olue86ekt1ip76d94vnaqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8UwqwJkSKx4W0yAGdYvc7syCAVz8uXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444582222729-o9gvb6f7d5olue86ekt1ip76d94vnaqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
